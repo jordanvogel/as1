@@ -14,4 +14,4 @@ I had enough at one point to record a video of almost the full scenario, but som
 me get greedy for features and bust it.
 
 Sources and Collaboration: I used the Student Picker Saga videos from Abram Hindles YouTube channel as a guide to start the code base,
-Also used ideas and methods from the lonelyTwitter, along with StackOverflow posts and Android Documentation
+Also used lonelyTwitter as a reference for ideas and approach, along with StackOverflow posts and Android Documentation
